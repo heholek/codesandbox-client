@@ -334,7 +334,7 @@
     "typescript": "3.7.4",
     "url-loader": "1.0.1",
     "webpack": "^4.36.1",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^3.6.0",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.7.2",
     "webpack-manifest-plugin": "^2.0.3",
